@@ -18,7 +18,7 @@ by Josh Medeski28 Feb 2014 - Tuts Plus](http://webdesign.tutsplus.com/articles/a
 - [CSS class naming and BEM: Contemporary practice - Phil Baker](http://philbaker.me/blog/2014/02/css-class-naming-and-bem-contemporary-practice/)
 - [Naming conventions – BEM - Shane Prendergast](http://shaneprendergast.co.uk/css/naming-conventions-bem/)
 - [The Evolution Of The BEM Methodology - Smashing Magazine](http://www.smashingmagazine.com/2013/02/21/the-history-of-the-bem-methodology/)
-- [BEM Basic - 8th Light](http://blog.8thlight.com/nelsol-batalla/2014/08/01/bem-basics.html)
+- [BEM Basics - 8th Light](http://blog.8thlight.com/nelsol-batalla/2014/08/01/bem-basics.html)
 
 
 
