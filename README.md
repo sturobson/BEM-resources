@@ -17,6 +17,7 @@ by Josh Medeski28 Feb 2014 - Tuts Plus](http://webdesign.tutsplus.com/articles/a
 - [Keeping the Front-End Modular with BEM - Thoughtbot](https://robots.thoughtbot.com/keeping-the-frontend-modular-with-bem)
 - [CSS class naming and BEM: Contemporary practice - Phil Baker](http://philbaker.me/blog/2014/02/css-class-naming-and-bem-contemporary-practice/)
 - [Naming conventions – BEM - Shane Prendergast](http://shaneprendergast.co.uk/css/naming-conventions-bem/)
+- [The Evolution Of The BEM Methodology - Smashing Magazine](http://www.smashingmagazine.com/2013/02/21/the-history-of-the-bem-methodology/)
 
 
 ## Resources
@@ -28,6 +29,8 @@ by Josh Medeski28 Feb 2014 - Tuts Plus](http://webdesign.tutsplus.com/articles/a
 
 - [Even Easier BEM-ing with Sass 3.3 - alwaystwisted](http://alwaystwisted.com/articles/2014-02-27-even-easier-bem-ing-with-sass-33)
 - [BEM Mixins - CSS Tricks](https://css-tricks.com/snippets/sass/bem-mixins/)
+- [Stylus and BEM: a quick mixin - Frank M Taylor](http://blog.frankmtaylor.com/2014/07/16/stylus-and-bem-a-quick-mixin/)
+- [Generating BEM selectors with CSS preprocessors - Frontend Babel](http://frontendbabel.info/articles/bem-with-css-preprocessors/)
 
 ## Repos, CodePens and Things
 
