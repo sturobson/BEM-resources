@@ -37,6 +37,7 @@ by Josh Medeski28 Feb 2014 - Tuts Plus](http://webdesign.tutsplus.com/articles/a
 
 ### Slides
 - [BEM CSS Workshop - Varya Stepanova](http://varya.me/bem-css-workshop/)
+
 ### Videos
 - [Writing Modular CSS With Sass and BEM - Tuts Plus](https://www.youtube.com/watch?v=WH4U4K5W8N8)
 - [MindBEMding – Rethink Web Development - Kevin Mack](https://www.youtube.com/watch?v=vgg-NsKZaE4)
