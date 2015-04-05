@@ -9,8 +9,7 @@ Everyone loves a bit of BEM in their development. Here's just the starts of hope
 - [A New Front-End Methodology: BEM (Blocks Reiteration) - Smashing Magazine](http://www.smashingmagazine.com/a-new-front-end-methodology-bem-blocks-reiteration/)
 - [A New Front-End Methodology: BEM (File System Representation For A Block) - Smashing Magazine](http://www.smashingmagazine.com/front-end-methodology-bem-file-system-representation/)
 - [BEM 101 - CSS Tricks](https://css-tricks.com/bem-101/)
-- [An Introduction to the BEM Methodology
-by Josh Medeski28 Feb 2014 - Tuts Plus](http://webdesign.tutsplus.com/articles/an-introduction-to-the-bem-methodology--cms-19403)
+- [An Introduction to the BEM Methodology - Tuts Plus](http://webdesign.tutsplus.com/articles/an-introduction-to-the-bem-methodology--cms-19403)
 - [Scaling Down The BEM Methodology For Small Projects - Smashing Magazine](http://www.smashingmagazine.com/2014/07/17/bem-methodology-for-small-projects/)
 - [Maintainable CSS with BEM - Integralist](http://www.integralist.co.uk/posts/bem.html)
 - [Fifty Shades of BEM - Kaelig](http://blog.kaelig.fr/post/48196348743/fifty-shades-of-bem)
@@ -29,13 +28,19 @@ by Josh Medeski28 Feb 2014 - Tuts Plus](http://webdesign.tutsplus.com/articles/a
 
 ## With Pre-processors
 
+- [Generating BEM selectors with CSS preprocessors - Frontend Babel](http://frontendbabel.info/articles/bem-with-css-preprocessors/)
+
+### Sass
 - [Even Easier BEM-ing with Sass 3.3 - alwaystwisted](http://alwaystwisted.com/articles/2014-02-27-even-easier-bem-ing-with-sass-33)
 - [BEM Mixins - CSS Tricks](https://css-tricks.com/snippets/sass/bem-mixins/)
+
+### Stylus
 - [Stylus and BEM: a quick mixin - Frank M Taylor](http://blog.frankmtaylor.com/2014/07/16/stylus-and-bem-a-quick-mixin/)
-- [Generating BEM selectors with CSS preprocessors - Frontend Babel](http://frontendbabel.info/articles/bem-with-css-preprocessors/)
+
 
 ## Repos, CodePens and Things
 
+### Repos
 - [BEM Constructor](https://github.com/danielguillan/bem-constructor)
 
 ## Slides &amp; Videos
