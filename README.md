@@ -18,6 +18,7 @@ Everyone loves a bit of BEM in their development. Here's just the starts of hope
 - [Naming conventions – BEM - Shane Prendergast](http://shaneprendergast.co.uk/css/naming-conventions-bem/)
 - [The Evolution Of The BEM Methodology - Smashing Magazine](http://www.smashingmagazine.com/2013/02/21/the-history-of-the-bem-methodology/)
 - [BEM Basics - 8th Light](http://blog.8thlight.com/nelsol-batalla/2014/08/01/bem-basics.html)
+- [How To BEM - Roman Kuba](https://medium.com/@Codebryo/how-to-bem-4a55fa3cd429)
 
 
 
