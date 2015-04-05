@@ -16,6 +16,7 @@ by Josh Medeski28 Feb 2014 - Tuts Plus](http://webdesign.tutsplus.com/articles/a
 - [Fifty Shades of BEM - Kaelig](http://blog.kaelig.fr/post/48196348743/fifty-shades-of-bem)
 - [Keeping the Front-End Modular with BEM - Thoughtbot](https://robots.thoughtbot.com/keeping-the-frontend-modular-with-bem)
 - [CSS class naming and BEM: Contemporary practice - Phil Baker](http://philbaker.me/blog/2014/02/css-class-naming-and-bem-contemporary-practice/)
+- [Naming conventions – BEM - Shane Prendergast](http://shaneprendergast.co.uk/css/naming-conventions-bem/)
 
 
 ## Resources
@@ -27,3 +28,15 @@ by Josh Medeski28 Feb 2014 - Tuts Plus](http://webdesign.tutsplus.com/articles/a
 
 - [Even Easier BEM-ing with Sass 3.3 - alwaystwisted](http://alwaystwisted.com/articles/2014-02-27-even-easier-bem-ing-with-sass-33)
 - [BEM Mixins - CSS Tricks](https://css-tricks.com/snippets/sass/bem-mixins/)
+
+## Repos, CodePens and Things
+
+- [BEM Constructor](https://github.com/danielguillan/bem-constructor)
+
+## Slides &amp; Videos
+
+### Slides
+- [BEM CSS Workshop - Varya Stepanova](http://varya.me/bem-css-workshop/)
+### Videos
+- [Writing Modular CSS With Sass and BEM - Tuts Plus](https://www.youtube.com/watch?v=WH4U4K5W8N8)
+- [MindBEMding – Rethink Web Development - Kevin Mack](https://www.youtube.com/watch?v=vgg-NsKZaE4)
