@@ -44,6 +44,7 @@ Everyone loves a bit of BEM in their development. Here's just the starts of hope
 
 ### Repos
 - [BEM Constructor](https://github.com/danielguillan/bem-constructor)
+- [WordPress BEM Menu](https://github.com/roikles/Wordpress-Bem-Menu)
 
 ## Slides &amp; Videos
 
