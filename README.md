@@ -4,6 +4,7 @@ Everyone loves a bit of BEM in their development. Here's just the starts of hope
 
 ## Articles
 
+- [BEM and SMACSS: Advice From Developers Who’ve Been There](http://www.sitepoint.com/bem-smacss-advice-from-developers/)
 - [MindBEMding – getting your head ’round BEM syntax - CSS Wizardry](http://csswizardry.com/2013/01/mindbemding-getting-your-head-round-bem-syntax/)
 - [A New Front-End Methodology: BEM - Smashing Magazine](http://www.smashingmagazine.com/2012/04/16/a-new-front-end-methodology-bem/)
 - [A New Front-End Methodology: BEM (Blocks Reiteration) - Smashing Magazine](http://www.smashingmagazine.com/a-new-front-end-methodology-bem-blocks-reiteration/)
