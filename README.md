@@ -23,6 +23,7 @@ Everyone loves a bit of BEM in their development. Here's just the starts of hope
 - [Expressive BEM with Sass: a different approach - Anders Hansen](http://codepen.io/andersschmidt/thoughts/expressive-bem-with-sass-a-different-approach)
 - [Expressive BEM with Sass Part II: A first draft of mixins - Anders Hansen](http://codepen.io/andersschmidt/thoughts/expressive-bem-with-sass-part-ii-a-first-draft-of-mixins)
 - [Learning to love BEM](http://mono.company/2015/05/06/learning-to-love-bem/)
+- [Working with BEM at Scale — Advice From Top Developers](http://www.sitepoint.com/working-bem-scale-advice-top-developers/)
 
 
 ## Resources
@@ -41,12 +42,16 @@ Everyone loves a bit of BEM in their development. Here's just the starts of hope
 ### Stylus
 - [Stylus and BEM: a quick mixin - Frank M Taylor](http://blog.frankmtaylor.com/2014/07/16/stylus-and-bem-a-quick-mixin/)
 
+### PostCSS
+
+- [PostCSS BEM Linter](https://github.com/necolas/postcss-bem-linter)
 
 ## Repos, CodePens and Things
 
 ### Repos
 - [BEM Constructor](https://github.com/danielguillan/bem-constructor)
 - [WordPress BEM Menu](https://github.com/roikles/Wordpress-Bem-Menu)
+- [BEM Grid](https://github.com/bem-incubator/bem-grid)
 
 ## Slides &amp; Videos
 
