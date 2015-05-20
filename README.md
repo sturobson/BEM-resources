@@ -24,7 +24,7 @@ Everyone loves a bit of BEM in their development. Here's just the starts of hope
 - [Expressive BEM with Sass Part II: A first draft of mixins - Anders Hansen](http://codepen.io/andersschmidt/thoughts/expressive-bem-with-sass-part-ii-a-first-draft-of-mixins)
 - [Learning to love BEM](http://mono.company/2015/05/06/learning-to-love-bem/)
 - [Working with BEM at Scale — Advice From Top Developers](http://www.sitepoint.com/working-bem-scale-advice-top-developers/)
-- - [CSS Architecture: BEMCSS — Block, Element &  Modifier](https://medium.com/@mjtweaver/css-architecture-bemcss-block-element-modifier-e642bd0f4218)
+- [CSS Architecture: BEMCSS — Block, Element &  Modifier](https://medium.com/@mjtweaver/css-architecture-bemcss-block-element-modifier-e642bd0f4218)
 
 ## Resources
 
