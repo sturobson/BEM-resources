@@ -26,6 +26,7 @@ Everyone loves a bit of BEM in their development. Here's just the starts of hope
 - [Working with BEM at Scale — Advice From Top Developers](http://www.sitepoint.com/working-bem-scale-advice-top-developers/)
 - [CSS Architecture: BEMCSS — Block, Element &  Modifier](https://medium.com/@mjtweaver/css-architecture-bemcss-block-element-modifier-e642bd0f4218)
 - [BEM Guidelines for component focused development](http://www.joelambert.co.uk/articles/bem-guidelines)
+- [BEMIT: Taking the BEM Naming Convention a Step Further](http://csswizardry.com/2015/08/bemit-taking-the-bem-naming-convention-a-step-further/)
 
 ## Resources
 
