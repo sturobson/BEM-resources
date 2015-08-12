@@ -28,6 +28,7 @@ Everyone loves a bit of BEM in their development. Here's just the starts of hope
 - [BEM Guidelines for component focused development](http://www.joelambert.co.uk/articles/bem-guidelines)
 - [BEMIT: Taking the BEM Naming Convention a Step Further](http://csswizardry.com/2015/08/bemit-taking-the-bem-naming-convention-a-step-further/)
 - [CSS BEM Syntax Basics](http://coryrylan.com/blog/css-bem-syntax-basics)
+- [BEM official naming convention](https://en.bem.info/method/naming-convention/)
 
 ## Resources
 
