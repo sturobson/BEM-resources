@@ -29,11 +29,13 @@ Everyone loves a bit of BEM in their development. Here's just the starts of hope
 - [BEMIT: Taking the BEM Naming Convention a Step Further](http://csswizardry.com/2015/08/bemit-taking-the-bem-naming-convention-a-step-further/)
 - [CSS BEM Syntax Basics](http://coryrylan.com/blog/css-bem-syntax-basics)
 - [BEM official naming convention](https://en.bem.info/method/naming-convention/)
+- [BEM for CSS - An Introduction](http://www.gapintelligence.com/blog/2015/bem-for-css-an-introduction)
 
 ## Resources
 
 - [BEM Official Website](https://en.bem.info/)
 - [Get BEM](http://getbem.com/introduction/)
+- [BEM Cheat Sheet](https://gist.github.com/ingdir/0b211b9253c376f9cfa5)
 
 ## With Pre-processors
 
@@ -61,10 +63,12 @@ Everyone loves a bit of BEM in their development. Here's just the starts of hope
 
 ### Slides
 - [BEM CSS Workshop - Varya Stepanova](http://varya.me/bem-css-workshop/)
+- [BEM - Luciano Battagliero](https://speakerdeck.com/battaglr/bem)
 
 ### Videos
 - [Writing Modular CSS With Sass and BEM - Tuts Plus](https://www.youtube.com/watch?v=WH4U4K5W8N8)
 - [MindBEMding – Rethink Web Development - Kevin Mack](https://www.youtube.com/watch?v=vgg-NsKZaE4)
+- [BEM Mixins](https://www.youtube.com/watch?v=iaPFmV6W0IQ)
 
 ### Other Awesome Lists
 - [A curated list of awesome lists - @sindresorhus](https://github.com/sindresorhus/awesome)
