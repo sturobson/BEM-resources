@@ -30,6 +30,7 @@ Everyone loves a bit of BEM in their development. Here's just the starts of hope
 - [CSS BEM Syntax Basics](http://coryrylan.com/blog/css-bem-syntax-basics)
 - [BEM official naming convention](https://en.bem.info/method/naming-convention/)
 - [BEM for CSS - An Introduction](http://www.gapintelligence.com/blog/2015/bem-for-css-an-introduction)
+- [Getting Started With BEM (with a little help from Sass)](https://www.packtpub.com/books/content/getting-started-bem-little-help-sass/)
 
 ## Resources
 
