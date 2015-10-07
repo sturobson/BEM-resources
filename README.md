@@ -33,6 +33,8 @@ Everyone loves a bit of BEM in their development. Here's just the starts of hope
 - [Getting Started With BEM (with a little help from Sass)](https://www.packtpub.com/books/content/getting-started-bem-little-help-sass/)
 - [BEM naming convention](http://alexmuraro.me/posts/bem/)
 - [BEM (Block element modifier) - CSS Methodologies Part 3](http://techblog.buyapowa.com/css/frontend/scss/sass/2015/10/07/css-methodologies-part-3.html)
+- [How I stopped worrying and learned to love the CSS with BEM](http://www.theodo.fr/blog/2015/10/how-i-stopped-worrying-and-learned-to-love-the-css-with-bem/)
+- [BEM CSS Basics for WordPress Themes Developers](https://ahmadawais.com/bem-css-basics-for-wordpress-themes-developers)
 
 ## Resources
 
