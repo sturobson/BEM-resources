@@ -37,6 +37,9 @@ Everyone loves a bit of BEM in their development. Here's just the starts of hope
 - [BEM CSS Basics for WordPress Themes Developers](https://ahmadawais.com/bem-css-basics-for-wordpress-themes-developers)
 - [Generate responsive BEMIT classes with Sass](http://codepen.io/craigmdennis/post/generate-responsive-bemit-classes-with-sass)
 - [The BEMIT naming convention](http://www.jamesturneronline.net/beautifulweb/bemit-naming-convention.html)
+- [An Introduction to the BEM Methodology for effective Front-End Development](http://4digits.net/blog/sass/introduction-to-bem.html)
+- [CSS Organisation with BEM](http://www.blankmaker.com/css-organization-with-bem/)
+- [Patterns For Scaling CSS](https://dominikpiatek.com/patterns-for-scaling-css/)
 
 ## Resources
 
@@ -65,6 +68,9 @@ Everyone loves a bit of BEM in their development. Here's just the starts of hope
 - [BEM Constructor](https://github.com/danielguillan/bem-constructor)
 - [WordPress BEM Menu](https://github.com/roikles/Wordpress-Bem-Menu)
 - [BEM Grid](https://github.com/bem-incubator/bem-grid)
+
+### CodePens
+- [Flexible Grid System with BEM](http://codepen.io/dnomak/pen/wayPxJ?editors=100)
 
 ## Slides &amp; Videos
 
