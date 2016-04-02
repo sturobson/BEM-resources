@@ -40,6 +40,7 @@ Everyone loves a bit of BEM in their development. Here's just the starts of hope
 - [An Introduction to the BEM Methodology for effective Front-End Development](http://4digits.net/blog/sass/introduction-to-bem.html)
 - [CSS Organisation with BEM](http://www.blankmaker.com/css-organization-with-bem/)
 - [Patterns For Scaling CSS](https://dominikpiatek.com/patterns-for-scaling-css/)
+- [Our New Flatmate BEM](https://m.alphasights.com/our-new-flatmate-bem-15591204af04#.paldmaoyp)
 
 ## Resources
 
