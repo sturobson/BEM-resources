@@ -82,7 +82,7 @@ Everyone loves a bit of BEM in their development. Here's just the starts of hope
 ### Videos
 - [Writing Modular CSS With Sass and BEM - Tuts Plus](https://www.youtube.com/watch?v=WH4U4K5W8N8)
 - [MindBEMding – Rethink Web Development - Kevin Mack](https://www.youtube.com/watch?v=vgg-NsKZaE4)
-- [BEM Mixins](https://www.youtube.com/watch?v=iaPFmV6W0IQ)
+
 
 ### Other Awesome Lists
 - [A curated list of awesome lists - @sindresorhus](https://github.com/sindresorhus/awesome)
