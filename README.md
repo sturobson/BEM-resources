@@ -20,7 +20,7 @@ Everyone loves a bit of BEM in their development. Here's just the starts of hope
 - [Fifty Shades of BEM - Kaelig](http://blog.kaelig.fr/post/48196348743/fifty-shades-of-bem)
 - [Keeping the Front-End Modular with BEM - Thoughtbot](https://robots.thoughtbot.com/keeping-the-frontend-modular-with-bem)
 - [CSS class naming and BEM: Contemporary practice - Phil Baker](http://philbaker.me/2014/02/css-class-naming-and-bem-contemporary-practice/)
-- [Naming conventions – BEM - Shane Prendergast](http://shaneprendergast.co.uk/css/naming-conventions-bem/)
+- [Naming conventions – BEM - Shane Prendergast](http://shaneprendergast.webknit.co.uk/css/naming-conventions-bem/)
 - [The Evolution Of The BEM Methodology - Smashing Magazine](https://www.smashingmagazine.com/2013/02/the-history-of-the-bem-methodology/)
 - [BEM Basics - 8th Light](http://blog.8thlight.com/nelsol-batalla/2014/08/01/bem-basics.html)
 - [How To BEM - Roman Kuba](https://medium.com/@Codebryo/how-to-bem-4a55fa3cd429)
