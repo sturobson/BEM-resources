@@ -45,6 +45,7 @@ Everyone loves a bit of BEM in their development. Here's just the starts of hope
 - [CSS Organisation with BEM](http://www.blankmaker.com/css-organization-with-bem/)
 - [Patterns For Scaling CSS](https://dominikpiatek.com/patterns-for-scaling-css/)
 - [Our New Flatmate BEM](https://m.alphasights.com/our-new-flatmate-bem-15591204af04#.paldmaoyp)
+- [BEM by example](https://seesparkbox.com/foundry/bem_by_example)
 
 ## Resources
 
