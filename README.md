@@ -46,6 +46,7 @@ Everyone loves a bit of BEM in their development. Here's just the starts of hope
 - [Patterns For Scaling CSS](https://dominikpiatek.com/patterns-for-scaling-css/)
 - [Our New Flatmate BEM](https://m.alphasights.com/our-new-flatmate-bem-15591204af04#.paldmaoyp)
 - [BEM by example](https://seesparkbox.com/foundry/bem_by_example)
+- [Introducing BEM: The popular CSS naming convention](https://assortment.io/posts/introducing-bem-css-naming-convention)
 
 ## Resources
 
