@@ -47,6 +47,7 @@ Everyone loves a bit of BEM in their development. Here's just the starts of hope
 - [Our New Flatmate BEM](https://m.alphasights.com/our-new-flatmate-bem-15591204af04#.paldmaoyp)
 - [BEM by example](https://seesparkbox.com/foundry/bem_by_example)
 - [Introducing BEM: The popular CSS naming convention](https://assortment.io/posts/introducing-bem-css-naming-convention)
+- [7 Reasons To Use BEM CSS](https://medium.com/soliddigital/7-reasons-to-use-bem-css-a7c8475318fe)
 
 ## Resources
 
